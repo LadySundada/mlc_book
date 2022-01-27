@@ -72,7 +72,7 @@ Glossary
 **Cognitive stage** The first stage of learning in the Fitts and Posner model. The beginning or initial stage on the learning continuum.
 认知阶段（Cognitive stage）在Fitts和Posner模型中学习的第一阶段，连续学习阶段的开始阶段。
 **Complexity** The number of parts or components and the degree of information processing that characterize a skill; more-complex skills have more component parts and greater information-processing demands than less-complex skills.
-复杂度（Complexity）由技能组成部分的数量以及信息加工的程度描述的一种技能特征；复杂的技能比不复杂的技能具有更多的组成部分和更高的信息加工需求。
+复杂性（Complexity）由技能组成部分的数量以及信息加工的程度描述的技能特征；复杂的技能比不复杂的技能具有更多的组成部分和更高的信息加工需求。
 **Concurrent augmented feedback** Augmented feedback that is provided while a person is performing a skill or making a movement.
 同步追加反馈（Concurrent augmented feedback）当个体在执行一项技能或做一个动作时提供的追加反馈。
 **Cones** One of two types of photoreceptors in the retina; they detect bright light and play critical roles in central vision, visual acuity, and color vision.
@@ -234,7 +234,7 @@ Glossary
 **Motor development** Human development from infancy to old age with specific interest in issues related to either motor learning or motor control.
 运动发育（Motor development）人类从婴儿发育到老年的过程中与运动学习或运动控制有关的问题。
 **Motor equivalence** The capability of the motor control system to enable a person to achieve an action goal in a variety of situations and conditions (e.g., writing your signature with either hand).
-运动等效（Motor equivalence）运动控制系统使人能够在各种情况和条件下完成动作目标的能力（例如，用不同的手签名）。
+运动等效（Motor equivalence）运动控制系统使人能够在各种情况和条件下完成运动目标的能力（例如，用不同的手签名）。
 **Motor learning** The acquisition of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of ­injury, disease, and the like. Of interest are the behavioral and/or neurological changes that occur as a person learns a motor skill and the variables that influence those changes.
 运动学习（Motor learning）获得运动技能、提高已掌握或已数量掌握的运动技能的表现，或重新获得由于受伤、疾病等原因而难以执行或无法执行的运动技能。研究点在于，个体在学习一项运动技能时发生的行为和/或神经方面的变化以及影响这些变化的变量。
 **Motor neurons** Nerve cells that send neural impulses from the CNS to skeletal muscle fibers. Also called *efferent neurons*.
@@ -242,7 +242,7 @@ Glossary
 **Motor program** A memory representation that stores information needed to perform an action.
 运动程序（Motor program）一种储存着完成运动技能所需信息的记忆表征。
 **Motor skills** Activities or tasks that require voluntary control over movements of the joints and body segments to achieve a goal.
-运动技能（Motor skills）需要自主控制关节和身体部位运动以实现某一目标的活动或任务。
+运动技能（Motor skills）需要自主控制关节和身体环节运动以实现某一目标的活动或任务。
 **Motor unit** The alpha motor neuron and all the muscle fibers it innervates; it serves as the functional unit of motor ­control for the innervation of the muscles involved in a movement.
 运动单位（Motor unit）α运动神经元及其支配的所有肌纤维；它是运动控制的功能单位，用于对运动参与肌肉进行神经支配。
 **Motor unit recruitment** The process of increasing the number of motor units needed to increase the number of muscle fibers active at any one time and thereby increase the amount of force the muscle can exert.
@@ -250,7 +250,7 @@ Glossary
 **Movement time (MT)** The interval of time between the ­initiation of a movement and the completion of the ­movement.
 运动时间（Movement time，MT）一个动作开始和完成之间的时间间隔。
 **Movements** Specific patterns of motion among joints and body segments used to accomplish action goals.
-动作（Movements）用于完成动作目标的关节和身体部位之间的特定运动模式。
+动作（Movements）用于完成运动目标的关节和身体环节之间的特定运动模式。
 **Multiple-resource theories** Theories of attention proposing that there are several attentional resource mechanisms, each of which is related to a specific information-processing ­activity and is limited in how much information it can process simultaneously.
 多重资源理论（Multiple-resource theories）该理论认为有几种注意力资源机制，每种机制都与特定的信息加工活动有关，并且能够同时加工的信息量是有限的。
 **Muscle spindles** A type of proprioceptor consisting of specialized muscle fibers that lie within the fibers of most skeletal muscles; they detect changes in muscle length.
@@ -284,7 +284,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Order parameters** Functionally specific variables that define the overall behavior of a system. They enable a coordinated pattern of movement to be reproduced and distinguished from other patterns (e.g., relative phase). Known also as collective variables.
 有序参数（Order parameters）也称为集合变量，定义系统整体行为的功能性变量。它们可以使运动协调模式复现，并区别于其他模式（例如，相对相位）。
 **Organization** When applied to a complex motor skill, the ­relationships among the components of the skill.
-组织（Organization）复杂运动技能中各技能组成部分之间的关系。
+组织性（Organization）复杂运动技能中各技能组成部分之间的关系。
 **Overlearning** Practice that continues beyond the amount needed to achieve a certain performance criterion.
 过度学习（Overlearning）个体在完成达到一定表现水平所需的练习量后继续进行的练习。
 ■
@@ -296,7 +296,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Parkinson’s disease** A basal ganglia disorder caused by the lack of production of the neurotransmitter dopamine by the substantia nigra; the disease is characterized by slow movements (bradykinesia), a reduced amount of movement ­(akinesia), tremor, and muscular rigidity.
 帕金森病（Parkinson’s disease）一种由于黑质分泌的神经递质多巴胺不足而引起的基底神经节疾病；该疾病的特点是运动缓慢（运动迟缓）、运动量减少（运动缺乏）、震颤和肌肉僵硬。
 **Perception-action coupling** The spatial and temporal coordination of vision and the hands or feet that enables people to perform eye-hand and eye-foot coordination skills; that is, the coordination of the visual perception of the object and the limb movement required to achieve the action goal.
-知觉-动作耦合（Perception-action coupling）视觉与手或脚的时空协调，使人们能够执行眼-手和眼-脚协调技能；对物体的视知觉与实现动作目标所需的肢体运动之间的协调。
+知觉-动作耦合（Perception-action coupling）视觉与手或脚的时空协调，使人们能够执行眼-手和眼-脚协调技能；对物体的视知觉与实现运动目标所需的肢体运动之间的协调。
 **Performance** The behavioral act of executing a skill at a ­specific time and in a specific situation.
 表现（Performance）在特定时间和特定情境下执行技能的行为。
 **Performance bandwidth** In the context of providing augmented feedback, a range of acceptable performance error. Augmented feedback is given only when the amount of ­error is greater than this range.
@@ -359,7 +359,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Recognition test** An explicit memory test that requires a ­person to select a correct response from several alternative responses.
 识别测试（Recognition test）一种内隐记忆测试，要求一个人从几个备选回答中选出正确的回答。
 **Regulatory conditions** Features of the environmental context to which movements must conform if they are to achieve the action goal. They regulate spatial and temporal aspects of the movement.
-调节条件（Regulatory conditions）动作要实现动作目标所必须遵从的环境背景特征，决定了动作的时空特征。
+调节条件（Regulatory conditions）动作要实现运动目标所必须遵从的环境背景特征，决定了动作的时空特征。
 **Relative phase** An index of the coordination between two limb segments or limbs during the performance of a cyclic movement. It is based on calculating the phase angles for each limb segment or limb at a specific point in time and then subtracting one phase angle from the other. Relative phase ranges from 0 (or 360 degrees), which indicates an in-phase relationship between the limb segments or limbs, to 180 degrees, which indicates an antiphase (or out-of-phase) relationship.
 相对相位（Relative phase）：在循环运动过程中，评估两个肢体段或肢体之间协调性的指标。首先计算每个肢体段或肢体在特定时间点的相位角，然后两个相位角相减。相对相位范围从0（或360度）到180度，前者表示肢体段或肢体之间的同相关系，后者表示反相（或异相）关系。
 **Relative time** The proportion, or percentage, of the total amount of time required by each component of a skill ­during the performance of that skill.
@@ -395,7 +395,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Sensory neurons** Nerve cells that send neural impulses to the CNS. Also called *afferent neurons*.
 感觉神经元（Sensory neurons）也称为传入神经元（afferent neurons），向中枢神经系统发送神经冲动的神经细胞。
 **Serial motor skill** A motor skill involving a series of discrete skills.
-系列运动技能（Serial motor skill）包含一系列分离动作的运动技能。
+系列运动技能（Serial motor skill）包含一系列分离性技能的运动技能。
 **Simple RT** The reaction time when the situation involves only one signal (stimulus) that requires only one response.
 简单反应时（Simple RT）只涉及一个信号（刺激）且只需要一种响应的反应时。
 **Simplification** A part-task training method that involves reducing the difficulty of specific parts or features of a skill.
