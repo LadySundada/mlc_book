@@ -12,7 +12,7 @@ Glossary
 **Action preparation** The activity that occurs between the intention to perform an action and the initiation of that action. Sometimes, the term *motor programming* is used to refer to this preparation activity.
 动作准备（Action preparation）在执行某一动作的意图与该动作开始之间发生的活动。有时也用术语运动编程来指代这种准备活动。
 **Actions** See *motor* *skills.*
-动作或行动（Actions）参见运动技能（motor skills）。**译者注**：*Actions*在本书中等同于*motor skills*，因此将其译为动作或运动技能，但在与表示动作含义的movements区分时译为行动。
+动作或行动（Actions）参见运动技能（motor skills）。**译者注：***Actions*在本书中等同于*motor skills*，因此将其译为动作或运动技能，但在与表示动作含义的movements区分时译为行动。
 **Affordance** The reciprocal fit between the characteristics of a person and the characteristics of the environment that permit a specific action to occur, such as stairs having the physical characteristics to permit stair climbing.
 可供性（Affordance）人与环境各自特征之间的双向匹配，这种匹配使得特定的运动技能得以执行，例如，楼梯必须满足一定的物理特征才能允许人进行攀爬。
 **Arousal** The general state of excitability of a person, involving physiological, emotional, and mental systems. Terms such as *anxiety* and *intensity* are sometimes used synonymously in psychological contexts.
@@ -248,7 +248,7 @@ Glossary
 **Motor unit recruitment** The process of increasing the number of motor units needed to increase the number of muscle fibers active at any one time and thereby increase the amount of force the muscle can exert.
 运动单位募集（Motor unit recruitment）增加所需运动单位的数量来增加任何时候能一次激活的肌纤维数量的过程，从而增加肌肉产生力量的大小。
 **Movement time (MT)** The interval of time between the ­initiation of a movement and the completion of the ­movement.
-运动时间（Movement time，MT）一个动作开始和完成之间的时间间隔。
+动作时（间）（Movement time，MT）一个动作开始和完成之间的时间间隔。
 **Movements** Specific patterns of motion among joints and body segments used to accomplish action goals.
 动作（Movements）用于完成运动目标的关节和身体环节之间的特定运动模式。
 **Multiple-resource theories** Theories of attention proposing that there are several attentional resource mechanisms, each of which is related to a specific information-processing ­activity and is limited in how much information it can process simultaneously.
@@ -304,7 +304,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Performance curve** A line graph describing performance in which the level of achievement of a performance measure is plotted for a specific sequence of time (e.g., sec, min, days) or trials. The units of the performance measure are on the ­­Y-axis (vertical axis) and the time units or trials are on the X-axis (horizontal axis). This curve is sometimes referred to as a *learning curve*.
 表现曲线（Performance curve）一种描述表现的线形图，在该线形图中，针对特定的时间（例如，秒、分、天）序列或试验，绘制出表现指标的成就水平。表现指标的单位在Y轴（竖轴）上，时间单位或试验次数在X轴（横轴）上。该曲线有时称为学习曲线（Learning curve）。
 **Performance outcome measures** A category of motor skill performance measures that indicate the outcome or result of performing a motor skill (e.g., how far a person walked, how fast a person ran a certain distance, how many points a basketball player scored).
-表现结果测量（Performance outcome measures）表明运动技能执行结果的一类运动技能表现测量指标（例如，一个人走多远，一段距离跑多快以及篮球运动员得多少分等）。
+操作结果测量（Performance outcome measures）表明运动技能执行结果的一类运动技能表现测量指标（例如，一个人走多远，一段距离跑多快以及篮球运动员得多少分等）。
 **Performance plateau** While learning a skill, a period of time in which the learner experiences no improvement after ­having experienced consistent improvement. Typically, the learner then experiences further improvement with continued practice.
 表现平台期（Performance plateau）在学习一项运动技能的过程中，学习者的表现水平持续提高一段时间后便不再提高的一段时间。通常，学习者会在继续坚持练习后获得进一步提高。
 **Performance production measures** A category of motor skill performance measures that indicate how the nervous, muscular, and skeletal systems function during the performance of a motor skill (limb kinematics, force, EEG, EMG, etc.).
@@ -365,7 +365,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Relative time** The proportion, or percentage, of the total amount of time required by each component of a skill ­during the performance of that skill.
 相对时间（Relative time）运动技能执行过程中技能的每一个组成部分占总执行时间的比例或百分比。
 **Response time** The time interval involving both reaction time and movement time; that is, the time from the onset of a signal (stimulus) to the completion of a response.
-响应时间（Response time）包括反应时间和运动时间的时间间隔；即从信号（刺激）开始到响应完成的时间。
+响应时（间）（Response time）包括反应时（间）和动作时（间）的时间间隔；即从信号（刺激）开始到响应完成的时间。
 **Retention test** A test of a practiced skill that a learner performs following an interval of time after practice has ceased.
 保持测试（Retention test）技能练习结束后，间隔一段时间再对技能进行测试。
 **Retina** The eye structure that lines the back wall of the eye; as an extension of the brain, it contains the neuroreceptors that transmit visual information to the brain.
