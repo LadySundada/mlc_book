@@ -2,7 +2,7 @@ Glossary
 术语表
 
 **Ability** A general trait or capacity of an individual that is a determinant of a person’s achievement potential for the performance of specific skills.
-能力（Ability） 个体所具备的一般特征或能力，决定了一个人在特定技能执行中获得成功的潜力。
+能力（Ability） 个体所具备的一般特征或才能，决定了一个人在特定技能执行中获得成功的潜力。
 **Absolute error (AE)** The unsigned deviation from the target or criterion, representing amount of error. A measure of the magnitude of an error without regard to the direction of the deviation.
 绝对误差（Absolute error，AE）距离目标或标准的无符号偏差，代表误差量，是一种不考虑偏差方向的误差大小的量度。
 **Acceleration** A kinematic measure that describes change in velocity during movement; we derive it from velocity by dividing change in velocity by change in time.
@@ -336,7 +336,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Procedural knowledge** Knowledge that enables a person to know how to do a skill; this knowledge typically is difficult to verbalize or is not verbalizable.
 程序性知识（Procedural knowledge）使个体知道如何操作一项技能的知识；这种知识通常难以或无法用言语表达。
 **Proprioception** The perception of limb, body, and head movement characteristics and the force and effort associated with muscle contraction. Afferent neural pathways send to the central nervous system proprioceptive information about characteristics such as limb movement direction, ­location in space, velocity, and muscle force.
-本体感觉（Proprioception）对四肢、躯干和头部的运动特征以及与肌肉收缩相关的力量的感知；传入神经通路将本体感觉信息，如肢体运动方向、空间位置、速度以及肌肉力，发送到中枢神经系统。
+…**本体感觉（Proprioception）**对四肢、躯干和头部的运动特征以及与肌肉收缩相关的力量的感知；传入神经通路将本体感觉信息，如肢体运动方向、空间位置、速度以及肌肉力，发送到中枢神经系统。
 **Proprioceptors** Sensory neurons located in the muscles, tendons, ligaments, and joints. These neurons pick up information about body and limb position and changes in position.
 本体感受器（Proprioceptors）位于肌肉、肌腱、韧带以及关节处的感觉神经元。这些神经元可以获取肢体位置以及位置变化的信息。
 **Psychological refractory period (PRP)** A delay period during which a person seems to put planned action “on hold” while executing a previously initiated action.
@@ -403,7 +403,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Skill** (a) An activity or task that has a specific purpose or goal to achieve, (b) an indicator of quality of performance, often referred to as “skill level.”
 技能（Skill）（a）有特定目的或目标要实现的活动或任务；（b）表现质量的指标，通常称为“技能水平”。
 **Specificity of motor abilities hypothesis** A hypothesis that maintains that the many motor abilities in an individual are relatively independent.
-运动能力的特异性假说（Specificity of motor abilities hypothesis）该假说认为个体拥有的众多运动能力都是相对独立的。
+运动能力特异性假说（Specificity of motor abilities hypothesis）该假说认为个体拥有的众多运动能力都是相对独立的。
 **Specificity of practice hypothesis** The view that motor skill learning is influenced by practice condition characteristics, especially the sensory/perceptual information available, performance context characteristics, and cognitive processes involved.
 练习的特异性假说（Specificity of practice hypothesis）该假说认为运动技能学习受练习条件特征（特别是可利用的感觉/知觉信息）、执行环境特征以及所涉及的认知过程的影响。
 **Speed-accuracy trade-off** A characteristic of motor skill performance in which the speed at which a skill is performed is influenced by movement accuracy demands. The trade-off is that increasing speed yields decreasing accuracy, and vice versa.
