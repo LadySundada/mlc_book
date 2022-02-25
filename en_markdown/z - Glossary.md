@@ -12,7 +12,7 @@ Glossary
 **Action preparation** The activity that occurs between the intention to perform an action and the initiation of that action. Sometimes, the term *motor programming* is used to refer to this preparation activity.
 动作准备（Action preparation）在执行某一动作的意图与该动作开始之间发生的活动。有时也用术语运动编程来指代这种准备活动。
 **Actions** See *motor* *skills.*
-动作或行动（Actions）参见运动技能（motor skills）。**译者注：***Actions*在本书中等同于*motor skills*，因此将其译为动作或运动技能，但在与表示动作含义的movements区分时译为行动。
+行动或运动技能（Actions）参见运动技能（motor skills）。**译者注：***Actions*在本书中等同于*motor skills*，因此将其译为“运动技能”，但在与表示动作含义的movements区分时译为“行动”。
 **Affordance** The reciprocal fit between the characteristics of a person and the characteristics of the environment that permit a specific action to occur, such as stairs having the physical characteristics to permit stair climbing.
 可供性（Affordance）人与环境各自特征之间的双向匹配，这种匹配使得特定的运动技能得以执行，例如，楼梯必须满足一定的物理特征才能允许人进行攀爬。
 **Arousal** The general state of excitability of a person, involving physiological, emotional, and mental systems. Terms such as *anxiety* and *intensity* are sometimes used synonymously in psychological contexts.
