@@ -88,7 +88,7 @@ Glossary
 **Control parameters** Coordinated movement control variables (e.g., tempo, or speed, and force) that freely change according to the characteristics of an action situation. Under certain conditions, they can shift a system’s behavior from one coordination pattern to another coordination pattern. According to the dynamical systems view of motor control, when a control parameter is systematically varied (e.g., speed is increased from slow to fast), an order parameter may remain stable or change its stable state characteristic at a certain level of change of the control parameter.
 控制参数（Control parameters）根据运动技能执行环境的特征随意变化的协调运动控制变量（例如，音速或速度、力量）。在某种条件下，它们可以使系统的行为从一种协调模式转变为另一种协调模式。根据动态系统运动控制理论的观点，当控制参数系统性地逐步变化时（例如，速度由慢变快），有序参数可能会保持稳定，也可能在控制参数变化到某个水平时改变其稳定状态特征。
 **Coordination** The patterning of head, body, and/or limb motions relative to the patterning of environmental objects and events.
-协调（Coordination）头部、躯干和/或四肢相对于周围环境中物体和事件模式的运动模式。
+协调（Coordination）相对于环境物体和事件模式的头部、躯干和/或四肢动作的模式。
 **Coordinative structures** Functionally specific collectives of muscles and joints that are constrained by the nervous system to act cooperatively to produce an action. Sometimes referred to as muscle, or motor, synergies.
 协调结构（Coordinative structure）具有特定功能的肌肉和关节集合，受神经系统约束而协同作用执行一项运动技能；有时被称为肌肉或运动协同。
 **Cornea** A clear surface that covers the front of the eye; it serves as an important part of the eye’s optical system.
@@ -280,7 +280,7 @@ Glossary
 **Optical flow** The patterns of rays of light that strike the retina of the eye that emanate from and are specific to objects and features in the environment.
 光流（Optical flow）刺激眼睛视网膜的光线模式，这些光线由环境中的物体和特征发出并特定于这些物体和特征。
 OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**ptimizing **P**erformance **T**hrough **I**ntrinsic **M**otivation and **A**ttention for **L**earning. The theory addresses issues that have been traditionally ignored by schema theory and the dynamical systems theory. It stresses that learning cannot be understood without considering the motivational and attentional influences on behavior.
-运动学习的“最优化”理论（OPTIMAL theory of motor learning）OPTIMAL是通过学习的内在动机和注意力来优化表现（Optimizing Performance Through Intrinsic Motivation and Attention for Learning）的缩写。该理论解决了一直以来被模式理论和动态系统理论所忽视的问题，强调不考虑动机和注意力对行为的影响是无法理解学习的。
+运动学习的“最优化”理论（OPTIMAL theory of motor learning）OPTIMAL是通过学习的内在动机和注意力来优化表现（Optimizing Performance Through Intrinsic Motivation and Attention for Learning）的缩写。该理论解决了一直以来被图式理论和动态系统理论所忽视的问题，强调不考虑动机和注意力对行为的影响是无法理解学习的。
 **Order parameters** Functionally specific variables that define the overall behavior of a system. They enable a coordinated pattern of movement to be reproduced and distinguished from other patterns (e.g., relative phase). Known also as collective variables.
 有序参数（Order parameters）也称为集合变量，定义系统整体行为的功能性变量。它们可以使运动协调模式复现，并区别于其他模式（例如，相对相位）。
 **Organization** When applied to a complex motor skill, the ­relationships among the components of the skill.
@@ -381,7 +381,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 ■
 
 **Schema** A rule or set of rules that serves to provide the basis for a decision. In Schmidt’s schema theory, an abstract ­representation of rules governing movement.
-模式（Schema）为决策提供基础的一个或一组规则。在Schmidt模式理论中，指的是运动支配规则的抽象表征。
+图式（Schema）为决策提供基础的一种或一套规则。在施密特模式理论中，指的是运动支配规则的抽象表征。
 **Sclera** The firm, white capsule of the eye; we commonly call the anterior portion of it the “white” of the eye.
 巩膜（Sclera）眼部坚固的白色囊状结构；通常将其前部称为眼白。
 **Segmentation** A part-task training method that involves separating the skill into parts and then practicing the parts so that after one part is practiced, it is then practiced together with the next part, and so on. Also known as the progressive part method.
