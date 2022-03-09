@@ -12,7 +12,7 @@ Glossary
 **Action preparation** The activity that occurs between the intention to perform an action and the initiation of that action. Sometimes, the term *motor programming* is used to refer to this preparation activity.
 动作准备（Action preparation）在执行某一动作的意图与该动作开始之间发生的活动。有时也用术语运动编程来指代这种准备活动。
 **Actions** See *motor* *skills.*
-行动或运动技能（Actions）参见运动技能（motor skills）。**译者注：***Actions*在本书中等同于*motor skills*，因此将其译为“运动技能”，但在与表示动作含义的movements区分时译为“行动”。
+运动技能（Actions）参见运动技能（motor skills）。**译者注：***Actions*在本书中等同于*motor skills*，因此将其译为“运动技能”，“action”在词组中会根据语境译为“运动”或“动作”。
 **Affordance** The reciprocal fit between the characteristics of a person and the characteristics of the environment that permit a specific action to occur, such as stairs having the physical characteristics to permit stair climbing.
 可供性（Affordance）人与环境各自特征之间的双向匹配，这种匹配使得特定的运动技能得以执行，例如，楼梯必须满足一定的物理特征才能允许人进行攀爬。
 **Arousal** The general state of excitability of a person, involving physiological, emotional, and mental systems. Terms such as *anxiety* and *intensity* are sometimes used synonymously in psychological contexts.
@@ -336,7 +336,7 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Procedural knowledge** Knowledge that enables a person to know how to do a skill; this knowledge typically is difficult to verbalize or is not verbalizable.
 程序性知识（Procedural knowledge）使个体知道如何操作一项技能的知识；这种知识通常难以或无法用言语表达。
 **Proprioception** The perception of limb, body, and head movement characteristics and the force and effort associated with muscle contraction. Afferent neural pathways send to the central nervous system proprioceptive information about characteristics such as limb movement direction, ­location in space, velocity, and muscle force.
-…**本体感觉（Proprioception）**对四肢、躯干和头部的运动特征以及与肌肉收缩相关的力量的感知；传入神经通路将本体感觉信息，如肢体运动方向、空间位置、速度以及肌肉力，发送到中枢神经系统。
+**本体感觉（Proprioception）**对四肢、躯干和头部的运动特征以及与肌肉收缩相关的力量的感知；传入神经通路将本体感觉信息，如肢体运动方向、空间位置、速度以及肌肉力，发送到中枢神经系统。
 **Proprioceptors** Sensory neurons located in the muscles, tendons, ligaments, and joints. These neurons pick up information about body and limb position and changes in position.
 本体感受器（Proprioceptors）位于肌肉、肌腱、韧带以及关节处的感觉神经元。这些神经元可以获取肢体位置以及位置变化的信息。
 **Psychological refractory period (PRP)** A delay period during which a person seems to put planned action “on hold” while executing a previously initiated action.
